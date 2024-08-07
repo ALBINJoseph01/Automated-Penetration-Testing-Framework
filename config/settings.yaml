@@ -1,0 +1,4 @@
+default_target: "127.0.0.1"
+scan_ports: "1-1024"
+wordlist_path: "/usr/share/wordlists/rockyou.txt"
+logging_level: "INFO"
